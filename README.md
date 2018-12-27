@@ -10,6 +10,10 @@ at University of Oslo, 15 November 2018.
 - Set up for using a Logitech web camera. Needs to change to other input devices on line 79.
 - Can use keyboard shortcuts 1, 2, 3 to change between different settings. 
 
+## Showcase
+
+![Animation](20181112_185203-ANIMATION.gif)
+
 ## Credits
 
 The sketch is based on PixelFlow by [Thomas Diewald](http://thomasdiewald.com) 
