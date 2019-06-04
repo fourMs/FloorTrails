@@ -76,6 +76,7 @@ import processing.video.Capture;
     // webcam capture
     String[] cameras = Capture.list();
     printArray(cameras);
+    // Need to set the right camera here!
     cam = new Capture(this, cam_w, cam_h, "Logitech Camera #2", 30);
     cam.start();
     
